@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 7c6d8a79de3534ad0a90192e28b64af0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4797090587324498354
+    second: library_book_sleeping_spritesheet_0
+  - first:
+      213: -8155179722010838916
+    second: library_book_sleeping_spritesheet_1
+  - first:
+      213: 2459416369127665225
+    second: library_book_sleeping_spritesheet_2
+  - first:
+      213: 9112667398089494442
+    second: library_book_sleeping_spritesheet_3
+  - first:
+      213: -2898267621786461034
+    second: library_book_sleeping_spritesheet_4
+  - first:
+      213: 3366490310540739987
+    second: library_book_sleeping_spritesheet_5
+  - first:
+      213: 4574970542589862895
+    second: library_book_sleeping_spritesheet_6
+  - first:
+      213: -3555597459905550998
+    second: library_book_sleeping_spritesheet_7
+  - first:
+      213: -3491442780698448727
+    second: library_book_sleeping_spritesheet_8
+  - first:
+      213: 7988032239717061286
+    second: library_book_sleeping_spritesheet_9
+  - first:
+      213: 9097855147642257896
+    second: library_book_sleeping_spritesheet_10
+  - first:
+      213: 7606552969142750803
+    second: library_book_sleeping_spritesheet_11
+  - first:
+      213: -7508564178658353755
+    second: library_book_sleeping_spritesheet_12
+  - first:
+      213: 7213557982087748316
+    second: library_book_sleeping_spritesheet_13
+  - first:
+      213: -1147929177324838531
+    second: library_book_sleeping_spritesheet_14
+  - first:
+      213: 1321697099258609834
+    second: library_book_sleeping_spritesheet_15
+  - first:
+      213: 5665774760694491872
+    second: library_book_sleeping_spritesheet_16
+  - first:
+      213: -5876081260195249595
+    second: library_book_sleeping_spritesheet_17
+  - first:
+      213: -1749661910835185771
+    second: library_book_sleeping_spritesheet_18
+  - first:
+      213: -7097754907242040439
+    second: library_book_sleeping_spritesheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1576
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1c8dc1970b29240800000000000000
+      internalID: 4797090587324498354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1576
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c783316304bf2de80800000000000000
+      internalID: -8155179722010838916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1576
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ea2ac382a912220800000000000000
+      internalID: 2459416369127665225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1576
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf4863b7b2b67e70800000000000000
+      internalID: 9112667398089494442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1576
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cd66324f847c7d0800000000000000
+      internalID: -2898267621786461034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1064
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395439bd91d28be20800000000000000
+      internalID: 3366490310540739987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1064
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3e1f0287f8d7f30800000000000000
+      internalID: 4574970542589862895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1064
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a656c06d2faf7aec0800000000000000
+      internalID: -3555597459905550998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1064
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acedd61a47eb8fc0800000000000000
+      internalID: -3491442780698448727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1064
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a214b6eff03bde60800000000000000
+      internalID: 7988032239717061286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 552
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e10d25ed03124e70800000000000000
+      internalID: 9097855147642257896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 552
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e42facf97ef8960800000000000000
+      internalID: 7606552969142750803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 552
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad98dd59a83cc790800000000000000
+      internalID: -7508564178658353755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 552
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda160104c4bb1460800000000000000
+      internalID: 7213557982087748316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 552
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d712f36ce7cb110f0800000000000000
+      internalID: -1147929177324838531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa049f5528c975210800000000000000
+      internalID: 1321697099258609834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 40
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaa1945020e0ae40800000000000000
+      internalID: 5665774760694491872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 40
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5428bb60a37f37ea0800000000000000
+      internalID: -5876081260195249595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 40
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59733af13c3f7b7e0800000000000000
+      internalID: -1749661910835185771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: library_book_sleeping_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 40
+        width: 464
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9837d037485bf7d90800000000000000
+      internalID: -7097754907242040439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      library_book_sleeping_spritesheet_0: 4797090587324498354
+      library_book_sleeping_spritesheet_1: -8155179722010838916
+      library_book_sleeping_spritesheet_10: 9097855147642257896
+      library_book_sleeping_spritesheet_11: 7606552969142750803
+      library_book_sleeping_spritesheet_12: -7508564178658353755
+      library_book_sleeping_spritesheet_13: 7213557982087748316
+      library_book_sleeping_spritesheet_14: -1147929177324838531
+      library_book_sleeping_spritesheet_15: 1321697099258609834
+      library_book_sleeping_spritesheet_16: 5665774760694491872
+      library_book_sleeping_spritesheet_17: -5876081260195249595
+      library_book_sleeping_spritesheet_18: -1749661910835185771
+      library_book_sleeping_spritesheet_19: -7097754907242040439
+      library_book_sleeping_spritesheet_2: 2459416369127665225
+      library_book_sleeping_spritesheet_3: 9112667398089494442
+      library_book_sleeping_spritesheet_4: -2898267621786461034
+      library_book_sleeping_spritesheet_5: 3366490310540739987
+      library_book_sleeping_spritesheet_6: 4574970542589862895
+      library_book_sleeping_spritesheet_7: -3555597459905550998
+      library_book_sleeping_spritesheet_8: -3491442780698448727
+      library_book_sleeping_spritesheet_9: 7988032239717061286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

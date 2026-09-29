@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 1cfdd6fc5ae204dc38fab5942871f197
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2095819299938452056
+    second: fantasy_front_spritesheet_0
+  - first:
+      213: -5236635352649194948
+    second: fantasy_front_spritesheet_1
+  - first:
+      213: -3570528409451816727
+    second: fantasy_front_spritesheet_2
+  - first:
+      213: 1645074158471271198
+    second: fantasy_front_spritesheet_3
+  - first:
+      213: 4414914429438018924
+    second: fantasy_front_spritesheet_4
+  - first:
+      213: -2589041034896990587
+    second: fantasy_front_spritesheet_5
+  - first:
+      213: -8568873176191530942
+    second: fantasy_front_spritesheet_6
+  - first:
+      213: 865426817444799070
+    second: fantasy_front_spritesheet_7
+  - first:
+      213: -1627673438682872818
+    second: fantasy_front_spritesheet_8
+  - first:
+      213: 5406553578754462808
+    second: fantasy_front_spritesheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasy_front_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 55
+        width: 281
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adb2c963772ae2e0800000000000000
+      internalID: -2095819299938452056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_front_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 55
+        width: 281
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32a71344ebb357b0800000000000000
+      internalID: -5236635352649194948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_front_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 55
+        width: 281
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e81f2e345fe27ec0800000000000000
+      internalID: -3570528409451816727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_front_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 55
+        width: 281
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13dadc2b3a74d610800000000000000
+      internalID: 1645074158471271198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_front_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 55
+        width: 281
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c654668484de44d30800000000000000
+      internalID: 4414914429438018924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_front_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 55
+        width: 281
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e1e0665e0e11cd0800000000000000
+      internalID: -2589041034896990587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_front_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 55
+        width: 281
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2480bbffe3f351980800000000000000
+      internalID: -8568873176191530942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_front_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 55
+        width: 281
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52e4e0fa1d920c00800000000000000
+      internalID: 865426817444799070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_front_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 55
+        width: 281
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0408fc91a75969e0800000000000000
+      internalID: -1627673438682872818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_front_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4723
+        y: 55
+        width: 281
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854d6c0b5dfe70b40800000000000000
+      internalID: 5406553578754462808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fantasy_front_spritesheet_0: -2095819299938452056
+      fantasy_front_spritesheet_1: -5236635352649194948
+      fantasy_front_spritesheet_2: -3570528409451816727
+      fantasy_front_spritesheet_3: 1645074158471271198
+      fantasy_front_spritesheet_4: 4414914429438018924
+      fantasy_front_spritesheet_5: -2589041034896990587
+      fantasy_front_spritesheet_6: -8568873176191530942
+      fantasy_front_spritesheet_7: 865426817444799070
+      fantasy_front_spritesheet_8: -1627673438682872818
+      fantasy_front_spritesheet_9: 5406553578754462808
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

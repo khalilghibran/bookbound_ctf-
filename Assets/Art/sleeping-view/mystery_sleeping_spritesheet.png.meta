@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: ef8d6c98e1d2049e5b8b897ea3c1666a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5386877013440527778
+    second: mystery_sleeping_spritesheet_0
+  - first:
+      213: 5390027060068579366
+    second: mystery_sleeping_spritesheet_1
+  - first:
+      213: -6841296445970053059
+    second: mystery_sleeping_spritesheet_2
+  - first:
+      213: -6189810036020252035
+    second: mystery_sleeping_spritesheet_3
+  - first:
+      213: -1352970312772952173
+    second: mystery_sleeping_spritesheet_4
+  - first:
+      213: -1161378646792825555
+    second: mystery_sleeping_spritesheet_5
+  - first:
+      213: 6985368274043563285
+    second: mystery_sleeping_spritesheet_6
+  - first:
+      213: 6971861128084957630
+    second: mystery_sleeping_spritesheet_7
+  - first:
+      213: 7591093565404977327
+    second: mystery_sleeping_spritesheet_8
+  - first:
+      213: -8593687816919493318
+    second: mystery_sleeping_spritesheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mystery_sleeping_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 36
+        width: 469
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52092da5e7fd35b0800000000000000
+      internalID: -5386877013440527778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mystery_sleeping_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 37
+        width: 467
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6287125bd093dca40800000000000000
+      internalID: 5390027060068579366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mystery_sleeping_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 36
+        width: 469
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3800de0125de01a0800000000000000
+      internalID: -6841296445970053059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mystery_sleeping_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 37
+        width: 467
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d727dd73190691aa0800000000000000
+      internalID: -6189810036020252035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mystery_sleeping_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 38
+        width: 468
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fd48b3ba8493de0800000000000000
+      internalID: -1352970312772952173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mystery_sleeping_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 37
+        width: 469
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2590342644f1efe0800000000000000
+      internalID: -1161378646792825555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mystery_sleeping_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 37
+        width: 468
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d66a76f6301f060800000000000000
+      internalID: 6985368274043563285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mystery_sleeping_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 37
+        width: 469
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9abdae1c601c060800000000000000
+      internalID: 6971861128084957630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mystery_sleeping_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 37
+        width: 468
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa897bed06bf85960800000000000000
+      internalID: 7591093565404977327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mystery_sleeping_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 37
+        width: 468
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3559e936761db880800000000000000
+      internalID: -8593687816919493318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mystery_sleeping_spritesheet_0: -5386877013440527778
+      mystery_sleeping_spritesheet_1: 5390027060068579366
+      mystery_sleeping_spritesheet_2: -6841296445970053059
+      mystery_sleeping_spritesheet_3: -6189810036020252035
+      mystery_sleeping_spritesheet_4: -1352970312772952173
+      mystery_sleeping_spritesheet_5: -1161378646792825555
+      mystery_sleeping_spritesheet_6: 6985368274043563285
+      mystery_sleeping_spritesheet_7: 6971861128084957630
+      mystery_sleeping_spritesheet_8: 7591093565404977327
+      mystery_sleeping_spritesheet_9: -8593687816919493318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

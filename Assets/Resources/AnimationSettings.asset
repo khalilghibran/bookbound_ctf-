@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a7467f0e42b94922978a33470607446, type: 3}
+  m_Name: AnimationSettings
+  m_EditorClassIdentifier: BookBound.Runtime::BookBound.AnimationSettings
+  enabled: 1
+  buttons:
+    hoverScale: 1.05
+    hoverDuration: 0.12
+    pressScale: 0.95
+    pressDuration: 0.06
+    releaseOvershootScale: 1.05
+    releaseDuration: 0.1
+    hoverTintBrighten: 1.15
+    disabledAlpha: 0.5
+    disabledDuration: 0.15
+  panels:
+    openFromScale: 0.9
+    openDuration: 0.25
+    backdropAlpha: 0.6
+    backdropDuration: 0.2
+    closeToScale: 0.95
+    closeDuration: 0.15
+    childStaggerDelay: 0.04
+    childFadeDuration: 0.15
+  score:
+    rollDuration: 0.4
+    punchScale: 1.15
+    punchDuration: 0.25
+    bonusRollDuration: 0.8
+    bonusPunchScale: 1.3
+    bonusTintColor: {r: 1, g: 0.84, b: 0.2, a: 1}
+  timer:
+    amberThresholdSeconds: 20
+    redThresholdSeconds: 10
+    doublePulseThresholdSeconds: 5
+    colorTweenDuration: 0.5
+    pulseScale: 1.03
+    pulseDuration: 0.5
+    fastPulseDuration: 0.25
+    expiryFlashDuration: 0.15
+    calmColor: {r: 0.9, g: 0.75, b: 0.2, a: 1}
+    amberColor: {r: 0.95, g: 0.55, b: 0.15, a: 1}
+    redColor: {r: 0.9, g: 0.2, b: 0.15, a: 1}
+  hearts:
+    shakeAmplitude: 8
+    shakeDuration: 0.3
+    lossScale: 1.4
+    lossFadeDuration: 0.25
+    remainingPulseScale: 1.15
+    remainingPulseDuration: 0.3
+    remainingStagger: 0.06
+    idleBreatheScale: 1.02
+    idleBreatheDuration: 2
+  tableBooks:
+    hoverLift: 6
+    hoverScale: 1.04
+    hoverDuration: 0.1
+    feedInDuration: 0.35
+    shiftDuration: 0.25
+    shiftStagger: 0.03
+  drag:
+    pickupScale: 1.08
+    pickupAlpha: 0.65
+    pickupDuration: 0.08
+    maxLeanDegrees: 5
+    leanDamp: 10
+    leanSensitivity: 0.6
+    correctPunchScale: 1.2
+    correctDuration: 0.3
+    correctFlashColor: {r: 1.3, g: 1.05, b: 0.6, a: 1}
+    neutralPunchScale: 1.08
+    neutralDuration: 0.15
+    swapDuration: 0.2
+    returnDuration: 0.25
+  highlight:
+    fadeInDuration: 0.1
+    fadeOutDuration: 0.1
+    validPulseScale: 1.05
+    validPulseDuration: 0.8
+    swapPulseScale: 1.08
+    swapPulseDuration: 0.3
+  bookcase:
+    spawnSlideDistance: 40
+    spawnDuration: 0.4
+    prefillStagger: 0.02
+  screen:
+    fadeOutDuration: 0.3
+    holdDuration: 0.1
+    fadeInDuration: 0.3

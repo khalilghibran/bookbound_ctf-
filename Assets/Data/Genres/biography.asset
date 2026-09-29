@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f2e2a8149d2e4a90b91f4524b5f86ac, type: 3}
+  m_Name: biography
+  m_EditorClassIdentifier: BookBound.Runtime::BookBound.GenreDefinition
+  id: biography
+  displayName: Biography
+  accentColor: {r: 0.451, g: 0.133, b: 0.055, a: 1}
+  labelSprite: {fileID: 0}
+  coverSprites:
+  - {fileID: -9755894022203218, guid: f56cf8dcb0f5c4d8ab541bf3e45c7fd4, type: 3}
+  - {fileID: -7039356122738825416, guid: f56cf8dcb0f5c4d8ab541bf3e45c7fd4, type: 3}
+  - {fileID: -2156548359740248939, guid: f56cf8dcb0f5c4d8ab541bf3e45c7fd4, type: 3}
+  - {fileID: 9210065934517840312, guid: f56cf8dcb0f5c4d8ab541bf3e45c7fd4, type: 3}
+  - {fileID: 9042376384255400436, guid: f56cf8dcb0f5c4d8ab541bf3e45c7fd4, type: 3}
+  - {fileID: 317468146222610773, guid: f56cf8dcb0f5c4d8ab541bf3e45c7fd4, type: 3}
+  - {fileID: -8260205305639009640, guid: f56cf8dcb0f5c4d8ab541bf3e45c7fd4, type: 3}
+  - {fileID: 9032449962748441487, guid: f56cf8dcb0f5c4d8ab541bf3e45c7fd4, type: 3}
+  - {fileID: -685488799329382810, guid: f56cf8dcb0f5c4d8ab541bf3e45c7fd4, type: 3}
+  - {fileID: -3104924085862330284, guid: f56cf8dcb0f5c4d8ab541bf3e45c7fd4, type: 3}
+  spineSprites:
+  - {fileID: -8857492990365786177, guid: c6bbad621502a4d6682d5e1a0a358933, type: 3}
+  - {fileID: -772348164, guid: c6bbad621502a4d6682d5e1a0a358933, type: 3}
+  - {fileID: 1956433308, guid: c6bbad621502a4d6682d5e1a0a358933, type: 3}
+  - {fileID: 1752824991, guid: c6bbad621502a4d6682d5e1a0a358933, type: 3}
+  - {fileID: 1890276312, guid: c6bbad621502a4d6682d5e1a0a358933, type: 3}
+  - {fileID: 1235225287, guid: c6bbad621502a4d6682d5e1a0a358933, type: 3}
+  - {fileID: 699662543, guid: c6bbad621502a4d6682d5e1a0a358933, type: 3}
+  - {fileID: -205912854, guid: c6bbad621502a4d6682d5e1a0a358933, type: 3}
+  - {fileID: -2051844736, guid: c6bbad621502a4d6682d5e1a0a358933, type: 3}
+  - {fileID: 1694038890, guid: c6bbad621502a4d6682d5e1a0a358933, type: 3}

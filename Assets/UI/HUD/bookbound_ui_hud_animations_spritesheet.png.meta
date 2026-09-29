@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: fd77d166ae4e1448e9847af499d8ac9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8541353375086926005
+    second: bookbound_ui_hud_animations_spritesheet_0
+  - first:
+      213: 8579423030419966027
+    second: bookbound_ui_hud_animations_spritesheet_1
+  - first:
+      213: 6764177905069140822
+    second: bookbound_ui_hud_animations_spritesheet_2
+  - first:
+      213: -6489314455241811368
+    second: bookbound_ui_hud_animations_spritesheet_3
+  - first:
+      213: 5741595777141035010
+    second: bookbound_ui_hud_animations_spritesheet_4
+  - first:
+      213: -3736144462077704742
+    second: bookbound_ui_hud_animations_spritesheet_5
+  - first:
+      213: 8363319311157943582
+    second: bookbound_ui_hud_animations_spritesheet_6
+  - first:
+      213: 7400387873709299912
+    second: bookbound_ui_hud_animations_spritesheet_7
+  - first:
+      213: -122754074659572395
+    second: bookbound_ui_hud_animations_spritesheet_8
+  - first:
+      213: 5833843094970766741
+    second: bookbound_ui_hud_animations_spritesheet_9
+  - first:
+      213: 4785955431224494415
+    second: bookbound_ui_hud_animations_spritesheet_10
+  - first:
+      213: 8716105016506001098
+    second: bookbound_ui_hud_animations_spritesheet_11
+  - first:
+      213: -2616499042401028009
+    second: bookbound_ui_hud_animations_spritesheet_12
+  - first:
+      213: -6119204732183701686
+    second: bookbound_ui_hud_animations_spritesheet_13
+  - first:
+      213: -5810888910100718222
+    second: bookbound_ui_hud_animations_spritesheet_14
+  - first:
+      213: -5259447339786693450
+    second: bookbound_ui_hud_animations_spritesheet_15
+  - first:
+      213: -2250881126720543152
+    second: bookbound_ui_hud_animations_spritesheet_16
+  - first:
+      213: -4590711752731054353
+    second: bookbound_ui_hud_animations_spritesheet_17
+  - first:
+      213: -9204327030292666344
+    second: bookbound_ui_hud_animations_spritesheet_18
+  - first:
+      213: -4359921114067554759
+    second: bookbound_ui_hud_animations_spritesheet_19
+  - first:
+      213: -698781336889074980
+    second: bookbound_ui_hud_animations_spritesheet_20
+  - first:
+      213: -2405862863725056608
+    second: bookbound_ui_hud_animations_spritesheet_21
+  - first:
+      213: 5611483251610787899
+    second: bookbound_ui_hud_animations_spritesheet_22
+  - first:
+      213: 6304821921033741234
+    second: bookbound_ui_hud_animations_spritesheet_23
+  - first:
+      213: -7439513985574537302
+    second: bookbound_ui_hud_animations_spritesheet_24
+  - first:
+      213: -7176089335611995071
+    second: bookbound_ui_hud_animations_spritesheet_25
+  - first:
+      213: 6155511821582576692
+    second: bookbound_ui_hud_animations_spritesheet_26
+  - first:
+      213: -7033995357688172570
+    second: bookbound_ui_hud_animations_spritesheet_27
+  - first:
+      213: -148157918363521807
+    second: bookbound_ui_hud_animations_spritesheet_28
+  - first:
+      213: -1930516076500675534
+    second: bookbound_ui_hud_animations_spritesheet_29
+  - first:
+      213: -891999358198500883
+    second: bookbound_ui_hud_animations_spritesheet_30
+  - first:
+      213: 303265433928344313
+    second: bookbound_ui_hud_animations_spritesheet_31
+  - first:
+      213: 1257071172684065001
+    second: bookbound_ui_hud_animations_spritesheet_32
+  - first:
+      213: -1734667713716403787
+    second: bookbound_ui_hud_animations_spritesheet_33
+  - first:
+      213: 1652881186827794232
+    second: bookbound_ui_hud_animations_spritesheet_34
+  - first:
+      213: 4351458371751511092
+    second: bookbound_ui_hud_animations_spritesheet_35
+  - first:
+      213: 1329899035649345747
+    second: bookbound_ui_hud_animations_spritesheet_36
+  - first:
+      213: -1589480042602969758
+    second: bookbound_ui_hud_animations_spritesheet_37
+  - first:
+      213: -6617575053391351908
+    second: bookbound_ui_hud_animations_spritesheet_38
+  - first:
+      213: -2921948216667507969
+    second: bookbound_ui_hud_animations_spritesheet_39
+  - first:
+      213: -6643392599461686940
+    second: bookbound_ui_hud_animations_spritesheet_40
+  - first:
+      213: -8574534465083173739
+    second: bookbound_ui_hud_animations_spritesheet_41
+  - first:
+      213: -818865433359875731
+    second: bookbound_ui_hud_animations_spritesheet_42
+  - first:
+      213: 2401075715428954911
+    second: bookbound_ui_hud_animations_spritesheet_43
+  - first:
+      213: -5355718431057251402
+    second: bookbound_ui_hud_animations_spritesheet_44
+  - first:
+      213: 6473707197601170884
+    second: bookbound_ui_hud_animations_spritesheet_45
+  - first:
+      213: 2494238539023820124
+    second: bookbound_ui_hud_animations_spritesheet_46
+  - first:
+      213: -3115417141429925281
+    second: bookbound_ui_hud_animations_spritesheet_47
+  - first:
+      213: -3194799469768195597
+    second: bookbound_ui_hud_animations_spritesheet_48
+  - first:
+      213: 1097176418707850828
+    second: bookbound_ui_hud_animations_spritesheet_49
+  - first:
+      213: 4342594524933993147
+    second: bookbound_ui_hud_animations_spritesheet_50
+  - first:
+      213: 4191347982478904856
+    second: bookbound_ui_hud_animations_spritesheet_51
+  - first:
+      213: -7171190410092660054
+    second: bookbound_ui_hud_animations_spritesheet_52
+  - first:
+      213: -8624411286655450740
+    second: bookbound_ui_hud_animations_spritesheet_53
+  - first:
+      213: -17829719864938727
+    second: bookbound_ui_hud_animations_spritesheet_54
+  - first:
+      213: -5070274943364508993
+    second: bookbound_ui_hud_animations_spritesheet_55
+  - first:
+      213: -7884171823998181138
+    second: bookbound_ui_hud_animations_spritesheet_56
+  - first:
+      213: 3511529459987939091
+    second: bookbound_ui_hud_animations_spritesheet_57
+  - first:
+      213: 3248499617910260740
+    second: bookbound_ui_hud_animations_spritesheet_58
+  - first:
+      213: -4051284379161112788
+    second: bookbound_ui_hud_animations_spritesheet_59
+  - first:
+      213: -8198858662859754513
+    second: bookbound_ui_hud_animations_spritesheet_60
+  - first:
+      213: 6576645260678438934
+    second: bookbound_ui_hud_animations_spritesheet_61
+  - first:
+      213: -3071830231250918484
+    second: bookbound_ui_hud_animations_spritesheet_62
+  - first:
+      213: 6210653240342132540
+    second: bookbound_ui_hud_animations_spritesheet_63
+  - first:
+      213: -99976367630187587
+    second: bookbound_ui_hud_animations_spritesheet_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1001
+        width: 173
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8d32ff3abf88670800000000000000
+      internalID: 8541353375086926005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1001
+        width: 170
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48ccf95acb301770800000000000000
+      internalID: 8579423030419966027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1001
+        width: 172
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b213d67ff2fdd50800000000000000
+      internalID: 6764177905069140822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1001
+        width: 172
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a118382e251f5a0800000000000000
+      internalID: -6489314455241811368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 739
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200df5460fe3eaf40800000000000000
+      internalID: 5741595777141035010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 880
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5c05c186c862cc0800000000000000
+      internalID: -3736144462077704742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 739
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ddbbc4a9a701470800000000000000
+      internalID: 8363319311157943582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 880
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c81d8cef8573b660800000000000000
+      internalID: 7400387873709299912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 879
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5553f29c1d3eb4ef0800000000000000
+      internalID: -122754074659572395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 739
+        width: 148
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5951917c269f5f050800000000000000
+      internalID: 5833843094970766741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 879
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49ccfc8b112b6240800000000000000
+      internalID: 4785955431224494415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 740
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac627d52553d5f870800000000000000
+      internalID: 8716105016506001098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 853
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7587986dbf350bbd0800000000000000
+      internalID: -2616499042401028009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 853
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a471d4e87b7341ba0800000000000000
+      internalID: -6119204732183701686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 850
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d903cd2539b5fa0800000000000000
+      internalID: -5810888910100718222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 850
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4142d9280b207b0800000000000000
+      internalID: -5259447339786693450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 861
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056e03a7a8343c0e0800000000000000
+      internalID: -2250881126720543152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 858
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee2148cbf38a40c0800000000000000
+      internalID: -4590711752731054353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 804
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81821e22559a34080800000000000000
+      internalID: -9204327030292666344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 804
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e274bb8d27e73c0800000000000000
+      internalID: -4359921114067554759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 758
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdadd0f831e6d46f0800000000000000
+      internalID: -698781336889074980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 758
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad2d55e878ac9ed0800000000000000
+      internalID: -2405862863725056608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 759
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30a053594effdd40800000000000000
+      internalID: 5611483251610787899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 759
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3ef4ff12a3f7750800000000000000
+      internalID: 6304821921033741234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 750
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa77744427981c890800000000000000
+      internalID: -7439513985574537302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cc06215c8696c90800000000000000
+      internalID: -7176089335611995071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 723
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ca5207365cc6550800000000000000
+      internalID: 6155511821582576692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 723
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efef396d7a326e90800000000000000
+      internalID: -7033995357688172570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 724
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fce7418823a1fdf0800000000000000
+      internalID: -148157918363521807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 724
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2341ff25bdd6535e0800000000000000
+      internalID: -1930516076500675534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 427
+        width: 193
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1b3ba4f4bfe93f0800000000000000
+      internalID: -891999358198500883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 427
+        width: 235
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f224fd2e4a653400800000000000000
+      internalID: 303265433928344313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 427
+        width: 193
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8a7314293027110800000000000000
+      internalID: 1257071172684065001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 426
+        width: 193
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b14890b7e83de7e0800000000000000
+      internalID: -1734667713716403787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 558
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837fbcc9ea630f610800000000000000
+      internalID: 1652881186827794232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 550
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4340627855c736c30800000000000000
+      internalID: 4351458371751511092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 332
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d883077020c47210800000000000000
+      internalID: 1329899035649345747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 292
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265c31b925801f9e0800000000000000
+      internalID: -1589480042602969758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 291
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f2f14ec86a924a0800000000000000
+      internalID: -6617575053391351908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 308
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2727df3972377d0800000000000000
+      internalID: -2921948216667507969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 316
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46190a501adedc3a0800000000000000
+      internalID: -6643392599461686940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 315
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5949f567552210980800000000000000
+      internalID: -8574534465083173739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 309
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d610db51a3ec2a4f0800000000000000
+      internalID: -818865433359875731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 148
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13b5f844a5525120800000000000000
+      internalID: 2401075715428954911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 148
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3f1d7767aaca5b0800000000000000
+      internalID: -5355718431057251402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 276
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c548e4a56a37d950800000000000000
+      internalID: 6473707197601170884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 132
+        width: 169
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55aa977cb05d9220800000000000000
+      internalID: 2494238539023820124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 276
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a08e5bd90d3c4d0800000000000000
+      internalID: -3115417141429925281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 147
+        width: 158
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f14cdb1fcac9a3d0800000000000000
+      internalID: -3194799469768195597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 266
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c464405c324f93f00800000000000000
+      internalID: 1097176418707850828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 243
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb23f3e56bef34c30800000000000000
+      internalID: 4342594524933993147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 243
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e84b988c8aa2a30800000000000000
+      internalID: 4191347982478904856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 219
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa3dbd0150da7c90800000000000000
+      internalID: -7171190410092660054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 219
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81480ef0afef4880800000000000000
+      internalID: -8624411286655450740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 202
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f6109d6f7a0cff0800000000000000
+      internalID: -17829719864938727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 202
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2d13f6dc3c2a9b0800000000000000
+      internalID: -5070274943364508993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0e17a8f7bc59290800000000000000
+      internalID: -7884171823998181138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f76e060757bb030800000000000000
+      internalID: 3511529459987939091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 150
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4048882f03df41d20800000000000000
+      internalID: 3248499617910260740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f43006252f6c7c0800000000000000
+      internalID: -4051284379161112788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 131
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe33c9c4c7dc73e80800000000000000
+      internalID: -8198858662859754513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 130
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610ae702500f44b50800000000000000
+      internalID: 6576645260678438934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 136
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3abff0eaaae55d0800000000000000
+      internalID: -3071830231250918484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b8b5773ca03650800000000000000
+      internalID: 6210653240342132540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookbound_ui_hud_animations_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db30879f500dc9ef0800000000000000
+      internalID: -99976367630187587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bookbound_ui_hud_animations_spritesheet_0: 8541353375086926005
+      bookbound_ui_hud_animations_spritesheet_1: 8579423030419966027
+      bookbound_ui_hud_animations_spritesheet_10: 4785955431224494415
+      bookbound_ui_hud_animations_spritesheet_11: 8716105016506001098
+      bookbound_ui_hud_animations_spritesheet_12: -2616499042401028009
+      bookbound_ui_hud_animations_spritesheet_13: -6119204732183701686
+      bookbound_ui_hud_animations_spritesheet_14: -5810888910100718222
+      bookbound_ui_hud_animations_spritesheet_15: -5259447339786693450
+      bookbound_ui_hud_animations_spritesheet_16: -2250881126720543152
+      bookbound_ui_hud_animations_spritesheet_17: -4590711752731054353
+      bookbound_ui_hud_animations_spritesheet_18: -9204327030292666344
+      bookbound_ui_hud_animations_spritesheet_19: -4359921114067554759
+      bookbound_ui_hud_animations_spritesheet_2: 6764177905069140822
+      bookbound_ui_hud_animations_spritesheet_20: -698781336889074980
+      bookbound_ui_hud_animations_spritesheet_21: -2405862863725056608
+      bookbound_ui_hud_animations_spritesheet_22: 5611483251610787899
+      bookbound_ui_hud_animations_spritesheet_23: 6304821921033741234
+      bookbound_ui_hud_animations_spritesheet_24: -7439513985574537302
+      bookbound_ui_hud_animations_spritesheet_25: -7176089335611995071
+      bookbound_ui_hud_animations_spritesheet_26: 6155511821582576692
+      bookbound_ui_hud_animations_spritesheet_27: -7033995357688172570
+      bookbound_ui_hud_animations_spritesheet_28: -148157918363521807
+      bookbound_ui_hud_animations_spritesheet_29: -1930516076500675534
+      bookbound_ui_hud_animations_spritesheet_3: -6489314455241811368
+      bookbound_ui_hud_animations_spritesheet_30: -891999358198500883
+      bookbound_ui_hud_animations_spritesheet_31: 303265433928344313
+      bookbound_ui_hud_animations_spritesheet_32: 1257071172684065001
+      bookbound_ui_hud_animations_spritesheet_33: -1734667713716403787
+      bookbound_ui_hud_animations_spritesheet_34: 1652881186827794232
+      bookbound_ui_hud_animations_spritesheet_35: 4351458371751511092
+      bookbound_ui_hud_animations_spritesheet_36: 1329899035649345747
+      bookbound_ui_hud_animations_spritesheet_37: -1589480042602969758
+      bookbound_ui_hud_animations_spritesheet_38: -6617575053391351908
+      bookbound_ui_hud_animations_spritesheet_39: -2921948216667507969
+      bookbound_ui_hud_animations_spritesheet_4: 5741595777141035010
+      bookbound_ui_hud_animations_spritesheet_40: -6643392599461686940
+      bookbound_ui_hud_animations_spritesheet_41: -8574534465083173739
+      bookbound_ui_hud_animations_spritesheet_42: -818865433359875731
+      bookbound_ui_hud_animations_spritesheet_43: 2401075715428954911
+      bookbound_ui_hud_animations_spritesheet_44: -5355718431057251402
+      bookbound_ui_hud_animations_spritesheet_45: 6473707197601170884
+      bookbound_ui_hud_animations_spritesheet_46: 2494238539023820124
+      bookbound_ui_hud_animations_spritesheet_47: -3115417141429925281
+      bookbound_ui_hud_animations_spritesheet_48: -3194799469768195597
+      bookbound_ui_hud_animations_spritesheet_49: 1097176418707850828
+      bookbound_ui_hud_animations_spritesheet_5: -3736144462077704742
+      bookbound_ui_hud_animations_spritesheet_50: 4342594524933993147
+      bookbound_ui_hud_animations_spritesheet_51: 4191347982478904856
+      bookbound_ui_hud_animations_spritesheet_52: -7171190410092660054
+      bookbound_ui_hud_animations_spritesheet_53: -8624411286655450740
+      bookbound_ui_hud_animations_spritesheet_54: -17829719864938727
+      bookbound_ui_hud_animations_spritesheet_55: -5070274943364508993
+      bookbound_ui_hud_animations_spritesheet_56: -7884171823998181138
+      bookbound_ui_hud_animations_spritesheet_57: 3511529459987939091
+      bookbound_ui_hud_animations_spritesheet_58: 3248499617910260740
+      bookbound_ui_hud_animations_spritesheet_59: -4051284379161112788
+      bookbound_ui_hud_animations_spritesheet_6: 8363319311157943582
+      bookbound_ui_hud_animations_spritesheet_60: -8198858662859754513
+      bookbound_ui_hud_animations_spritesheet_61: 6576645260678438934
+      bookbound_ui_hud_animations_spritesheet_62: -3071830231250918484
+      bookbound_ui_hud_animations_spritesheet_63: 6210653240342132540
+      bookbound_ui_hud_animations_spritesheet_64: -99976367630187587
+      bookbound_ui_hud_animations_spritesheet_7: 7400387873709299912
+      bookbound_ui_hud_animations_spritesheet_8: -122754074659572395
+      bookbound_ui_hud_animations_spritesheet_9: 5833843094970766741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

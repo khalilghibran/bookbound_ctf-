@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 498c8bc5858704fb192843c0e401ec7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7635384269425322882
+    second: science_sleeping_spritesheet_0
+  - first:
+      213: 7805365243051732136
+    second: science_sleeping_spritesheet_1
+  - first:
+      213: -6144042484591662560
+    second: science_sleeping_spritesheet_2
+  - first:
+      213: -6582396847671145485
+    second: science_sleeping_spritesheet_3
+  - first:
+      213: -869318125198500259
+    second: science_sleeping_spritesheet_4
+  - first:
+      213: 2133707318073879098
+    second: science_sleeping_spritesheet_5
+  - first:
+      213: 10535659182598653
+    second: science_sleeping_spritesheet_6
+  - first:
+      213: -4503772345226048132
+    second: science_sleeping_spritesheet_7
+  - first:
+      213: 7291997083343707703
+    second: science_sleeping_spritesheet_8
+  - first:
+      213: -8248825228522186302
+    second: science_sleeping_spritesheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: science_sleeping_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 37
+        width: 468
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e745c41067aa90690800000000000000
+      internalID: -7635384269425322882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science_sleeping_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 37
+        width: 468
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac674e755a325c60800000000000000
+      internalID: 7805365243051732136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science_sleeping_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 37
+        width: 468
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a610da9e9fbbaa0800000000000000
+      internalID: -6144042484591662560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science_sleeping_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 37
+        width: 468
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb09eb21f0a6a4a0800000000000000
+      internalID: -6582396847671145485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science_sleeping_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 37
+        width: 468
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e1cbe55cf8fe3f0800000000000000
+      internalID: -869318125198500259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science_sleeping_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 37
+        width: 468
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ae17c30837c9d10800000000000000
+      internalID: 2133707318073879098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science_sleeping_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 37
+        width: 467
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9ad0f402e652000800000000000000
+      internalID: 10535659182598653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science_sleeping_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 37
+        width: 468
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dc29df9e26f71c0800000000000000
+      internalID: -4503772345226048132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science_sleeping_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 37
+        width: 468
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ed2ef66b0623560800000000000000
+      internalID: 7291997083343707703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: science_sleeping_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 37
+        width: 468
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c997a7a829468d80800000000000000
+      internalID: -8248825228522186302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      science_sleeping_spritesheet_0: -7635384269425322882
+      science_sleeping_spritesheet_1: 7805365243051732136
+      science_sleeping_spritesheet_2: -6144042484591662560
+      science_sleeping_spritesheet_3: -6582396847671145485
+      science_sleeping_spritesheet_4: -869318125198500259
+      science_sleeping_spritesheet_5: 2133707318073879098
+      science_sleeping_spritesheet_6: 10535659182598653
+      science_sleeping_spritesheet_7: -4503772345226048132
+      science_sleeping_spritesheet_8: 7291997083343707703
+      science_sleeping_spritesheet_9: -8248825228522186302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

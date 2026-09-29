@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: dd41e424ee03649d8ac6e8053afb4dc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 220360934532395129
+    second: bookbound_ui_panels_spritesheet_0
+  - first:
+      213: 1470793044124928149
+    second: bookbound_ui_panels_spritesheet_1
+  - first:
+      213: 1484035373210991438
+    second: bookbound_ui_panels_spritesheet_2
+  - first:
+      213: -148362511929216039
+    second: bookbound_ui_panels_spritesheet_3
+  - first:
+      213: 1168019318138618542
+    second: bookbound_ui_panels_spritesheet_4
+  - first:
+      213: 5860323798984371423
+    second: bookbound_ui_panels_spritesheet_5
+  - first:
+      213: -7870563286525467321
+    second: bookbound_ui_panels_spritesheet_6
+  - first:
+      213: 6858496296240916237
+    second: bookbound_ui_panels_spritesheet_7
+  - first:
+      213: -6227780970788825191
+    second: bookbound_ui_panels_spritesheet_8
+  - first:
+      213: -3114921318016220505
+    second: bookbound_ui_panels_spritesheet_9
+  - first:
+      213: 5381995391671543588
+    second: bookbound_ui_panels_spritesheet_10
+  - first:
+      213: 6788943327191938412
+    second: bookbound_ui_panels_spritesheet_11
+  - first:
+      213: -3924633491121079874
+    second: bookbound_ui_panels_spritesheet_12
+  - first:
+      213: -1661001964640992256
+    second: bookbound_ui_panels_spritesheet_13
+  - first:
+      213: 6389883848078656206
+    second: bookbound_ui_panels_spritesheet_14
+  - first:
+      213: 3860222861319817013
+    second: bookbound_ui_panels_spritesheet_15
+  - first:
+      213: -4632339475006877166
+    second: bookbound_ui_panels_spritesheet_16
+  - first:
+      213: 4079988576379968842
+    second: bookbound_ui_panels_spritesheet_17
+  - first:
+      213: 3484699431944261372
+    second: bookbound_ui_panels_spritesheet_18
+  - first:
+      213: -1232857805086806297
+    second: bookbound_ui_panels_spritesheet_19
+  - first:
+      213: 3145208799117251746
+    second: bookbound_ui_panels_spritesheet_20
+  - first:
+      213: 5843349327941922306
+    second: bookbound_ui_panels_spritesheet_21
+  - first:
+      213: -8699214124140511949
+    second: bookbound_ui_panels_spritesheet_22
+  - first:
+      213: -4118492782975797679
+    second: bookbound_ui_panels_spritesheet_23
+  - first:
+      213: -3328126564353044980
+    second: bookbound_ui_panels_spritesheet_24
+  - first:
+      213: 8863836952794871334
+    second: bookbound_ui_panels_spritesheet_25
+  - first:
+      213: -1206204703054590782
+    second: bookbound_ui_panels_spritesheet_26
+  - first:
+      213: 7022711044456821201
+    second: bookbound_ui_panels_spritesheet_27
+  - first:
+      213: 1057021444150186439
+    second: bookbound_ui_panels_spritesheet_28
+  - first:
+      213: 2110394708223580529
+    second: bookbound_ui_panels_spritesheet_29
+  - first:
+      213: 3502009759533351095
+    second: bookbound_ui_panels_spritesheet_30
+  - first:
+      213: -3600404119357391426
+    second: bookbound_ui_panels_spritesheet_31
+  - first:
+      213: -6569625217197775683
+    second: bookbound_ui_panels_spritesheet_32
+  - first:
+      213: -7017286428955613861
+    second: bookbound_ui_panels_spritesheet_33
+  - first:
+      213: -932131239294058716
+    second: bookbound_ui_panels_spritesheet_34
+  - first:
+      213: -388703202211696362
+    second: bookbound_ui_panels_spritesheet_35
+  - first:
+      213: 1195218782735860034
+    second: bookbound_ui_panels_spritesheet_36
+  - first:
+      213: 3976363485247647720
+    second: bookbound_ui_panels_spritesheet_37
+  - first:
+      213: 3875024423695453805
+    second: bookbound_ui_panels_spritesheet_38
+  - first:
+      213: -7254889115558395325
+    second: bookbound_ui_panels_spritesheet_39
+  - first:
+      213: 3865042781099034212
+    second: bookbound_ui_panels_spritesheet_40
+  - first:
+      213: -6378424768436159962
+    second: bookbound_ui_panels_spritesheet_41
+  - first:
+      213: -1817298943238801709
+    second: bookbound_ui_panels_spritesheet_42
+  - first:
+      213: 8176622264961395459
+    second: bookbound_ui_panels_spritesheet_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_purple_bar
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 582
+        width: 349
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 11, z: 11, w: 12}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6808017ee51a24bc7a3336612ee9a92f
+      internalID: 141766561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 567bc716c0f0449b5948c43ea2953a0a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      panel_purple_bar: 141766561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

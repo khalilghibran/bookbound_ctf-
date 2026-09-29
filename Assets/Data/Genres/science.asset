@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f2e2a8149d2e4a90b91f4524b5f86ac, type: 3}
+  m_Name: science
+  m_EditorClassIdentifier: BookBound.Runtime::BookBound.GenreDefinition
+  id: science
+  displayName: Science
+  accentColor: {r: 0.031, g: 0.286, b: 0.125, a: 1}
+  labelSprite: {fileID: 0}
+  coverSprites:
+  - {fileID: -7635384269425322882, guid: 498c8bc5858704fb192843c0e401ec7f, type: 3}
+  - {fileID: 7805365243051732136, guid: 498c8bc5858704fb192843c0e401ec7f, type: 3}
+  - {fileID: -6144042484591662560, guid: 498c8bc5858704fb192843c0e401ec7f, type: 3}
+  - {fileID: -6582396847671145485, guid: 498c8bc5858704fb192843c0e401ec7f, type: 3}
+  - {fileID: -869318125198500259, guid: 498c8bc5858704fb192843c0e401ec7f, type: 3}
+  - {fileID: 2133707318073879098, guid: 498c8bc5858704fb192843c0e401ec7f, type: 3}
+  - {fileID: 10535659182598653, guid: 498c8bc5858704fb192843c0e401ec7f, type: 3}
+  - {fileID: -4503772345226048132, guid: 498c8bc5858704fb192843c0e401ec7f, type: 3}
+  - {fileID: 7291997083343707703, guid: 498c8bc5858704fb192843c0e401ec7f, type: 3}
+  - {fileID: -8248825228522186302, guid: 498c8bc5858704fb192843c0e401ec7f, type: 3}
+  spineSprites:
+  - {fileID: -7017428737148254164, guid: fc29cb1390a8d43c1a3dc72dc854d70c, type: 3}
+  - {fileID: -1705772861, guid: fc29cb1390a8d43c1a3dc72dc854d70c, type: 3}
+  - {fileID: -1768188951, guid: fc29cb1390a8d43c1a3dc72dc854d70c, type: 3}
+  - {fileID: -1748428495, guid: fc29cb1390a8d43c1a3dc72dc854d70c, type: 3}
+  - {fileID: 712486729, guid: fc29cb1390a8d43c1a3dc72dc854d70c, type: 3}
+  - {fileID: 858464475, guid: fc29cb1390a8d43c1a3dc72dc854d70c, type: 3}
+  - {fileID: 512573220, guid: fc29cb1390a8d43c1a3dc72dc854d70c, type: 3}
+  - {fileID: -15554895, guid: fc29cb1390a8d43c1a3dc72dc854d70c, type: 3}
+  - {fileID: -684656916, guid: fc29cb1390a8d43c1a3dc72dc854d70c, type: 3}
+  - {fileID: 1081109526, guid: fc29cb1390a8d43c1a3dc72dc854d70c, type: 3}

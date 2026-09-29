@@ -1,0 +1,37 @@
+﻿# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# Unity build output
+Output/
+Build/
+Builds/
+
+# Temporary generated assets
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Visual Studio / IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

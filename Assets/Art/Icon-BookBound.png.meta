@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: f3e839b57ac14754998a19402104c5fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1048066938760118331
+    second: Icon-BookBound_0
+  - first:
+      213: 1678959563579563300
+    second: Icon-BookBound_1
+  - first:
+      213: -3234445281166121025
+    second: Icon-BookBound_2
+  - first:
+      213: -75588331883335252
+    second: Icon-BookBound_3
+  - first:
+      213: 1222223364454346068
+    second: Icon-BookBound_4
+  - first:
+      213: 581946243897067611
+    second: Icon-BookBound_5
+  - first:
+      213: 7866526498032405890
+    second: Icon-BookBound_6
+  - first:
+      213: -6725706373505432061
+    second: Icon-BookBound_7
+  - first:
+      213: -9212332356586291497
+    second: Icon-BookBound_8
+  - first:
+      213: -2586597224241802868
+    second: Icon-BookBound_9
+  - first:
+      213: -7078625578085260549
+    second: Icon-BookBound_10
+  - first:
+      213: 312478367639908909
+    second: Icon-BookBound_11
+  - first:
+      213: -4611873603383589678
+    second: Icon-BookBound_12
+  - first:
+      213: -1257038055455764777
+    second: Icon-BookBound_13
+  - first:
+      213: 4396150645811941103
+    second: Icon-BookBound_14
+  - first:
+      213: -5172302043606566433
+    second: Icon-BookBound_15
+  - first:
+      213: -6145793071338838184
+    second: Icon-BookBound_16
+  - first:
+      213: 416233728638919747
+    second: Icon-BookBound_17
+  - first:
+      213: 2328939044092318726
+    second: Icon-BookBound_18
+  - first:
+      213: 7136532998766011507
+    second: Icon-BookBound_19
+  - first:
+      213: 3264883620355250594
+    second: Icon-BookBound_20
+  - first:
+      213: -4918348757169972333
+    second: Icon-BookBound_21
+  - first:
+      213: -5993047533431997630
+    second: Icon-BookBound_22
+  - first:
+      213: -2587328496598458567
+    second: Icon-BookBound_23
+  - first:
+      213: 1239742794616638024
+    second: Icon-BookBound_24
+  - first:
+      213: 3040891169562797282
+    second: Icon-BookBound_25
+  - first:
+      213: -7158703139390280179
+    second: Icon-BookBound_26
+  - first:
+      213: 4291386571286911628
+    second: Icon-BookBound_27
+  - first:
+      213: 1872331281900087543
+    second: Icon-BookBound_28
+  - first:
+      213: -7873037233603667545
+    second: Icon-BookBound_29
+  - first:
+      213: 4321075072554422494
+    second: Icon-BookBound_30
+  - first:
+      213: 6263594373574644572
+    second: Icon-BookBound_31
+  - first:
+      213: -355833859812347363
+    second: Icon-BookBound_32
+  - first:
+      213: -2739346810557275058
+    second: Icon-BookBound_33
+  - first:
+      213: -1343905269717168933
+    second: Icon-BookBound_34
+  - first:
+      213: -5226817576592523833
+    second: Icon-BookBound_35
+  - first:
+      213: 324300262665478033
+    second: Icon-BookBound_36
+  - first:
+      213: -7283501314234221148
+    second: Icon-BookBound_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon-BookBound_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 1515
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c0a1f35b7b8e00800000000000000
+      internalID: 1048066938760118331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 975
+        width: 260
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d976bd3dcdc4710800000000000000
+      internalID: 1678959563579563300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1000
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7a7a25721fc13d0800000000000000
+      internalID: -3234445281166121025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_3
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1000
+        width: 137
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1fde800d473fef0800000000000000
+      internalID: -75588331883335252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_4
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 976
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45deb72aca536f010800000000000000
+      internalID: 1222223364454346068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_5
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 977
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b588bd9860d731800800000000000000
+      internalID: 581946243897067611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_6
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 961
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d4b6bdb248b2d60800000000000000
+      internalID: 7866526498032405890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306c0a700bd79a2a0800000000000000
+      internalID: -6725706373505432061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 575
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de36dcd788372080800000000000000
+      internalID: -9212332356586291497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_9
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 568
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c815e08678f8a1cd0800000000000000
+      internalID: -2586597224241802868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_10
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 566
+        width: 49
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2eb387a8ba3cd90800000000000000
+      internalID: -7078625578085260549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_11
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 568
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22bb277b65265400800000000000000
+      internalID: 312478367639908909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_12
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 567
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4025974655fffb0800000000000000
+      internalID: -4611873603383589678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 543
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de49637c8a1e8ee0800000000000000
+      internalID: -1257038055455764777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 546
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee89b678b3420d30800000000000000
+      internalID: 4396150645811941103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_15
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 551
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9bdc302ba4838b0800000000000000
+      internalID: -5172302043606566433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 543
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857aacf63c1c5baa0800000000000000
+      internalID: -6145793071338838184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_17
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 515
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3442f03fe52c6c500800000000000000
+      internalID: 416233728638919747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 480
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60419aaa8bd025020800000000000000
+      internalID: 2328939044092318726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 464
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3742d4f83fe0a0360800000000000000
+      internalID: 7136532998766011507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 471
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a91448ca523f4d20800000000000000
+      internalID: 3264883620355250594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 471
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b56672dd38ebbb0800000000000000
+      internalID: -4918348757169972333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_22
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 471
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b31c7550b64dca0800000000000000
+      internalID: -5993047533431997630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_23
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 200
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fd00bc076f71cd0800000000000000
+      internalID: -2587328496598458567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_24
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 181
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a89f5d083743110800000000000000
+      internalID: 1239742794616638024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 182
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4a96a486a633a20800000000000000
+      internalID: 3040891169562797282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 182
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e2b245c6d27ac90800000000000000
+      internalID: -7158703139390280179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_27
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 161
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a107f89511e8b30800000000000000
+      internalID: 4291386571286911628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 85
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8a18f716bdbf910800000000000000
+      internalID: 1872331281900087543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 90
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a911a3695a5db290800000000000000
+      internalID: -7873037233603667545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 91
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0d66b62ea87fb30800000000000000
+      internalID: 4321075072554422494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_31
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 85
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c535d0695e1cce650800000000000000
+      internalID: 6263594373574644572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 85
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1234d26df2df0bf0800000000000000
+      internalID: -355833859812347363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_33
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 85
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e446228e692ebf9d0800000000000000
+      internalID: -2739346810557275058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_34
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 86
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc8bba074d795de0800000000000000
+      internalID: -1343905269717168933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 85
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd3f616b1d9677b0800000000000000
+      internalID: -5226817576592523833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_36
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fddb4ee55208400800000000000000
+      internalID: 324300262665478033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon-BookBound_37
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 80
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad7af3f42ecbea90800000000000000
+      internalID: -7283501314234221148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Icon-BookBound_0: 1048066938760118331
+      Icon-BookBound_1: 1678959563579563300
+      Icon-BookBound_10: -7078625578085260549
+      Icon-BookBound_11: 312478367639908909
+      Icon-BookBound_12: -4611873603383589678
+      Icon-BookBound_13: -1257038055455764777
+      Icon-BookBound_14: 4396150645811941103
+      Icon-BookBound_15: -5172302043606566433
+      Icon-BookBound_16: -6145793071338838184
+      Icon-BookBound_17: 416233728638919747
+      Icon-BookBound_18: 2328939044092318726
+      Icon-BookBound_19: 7136532998766011507
+      Icon-BookBound_2: -3234445281166121025
+      Icon-BookBound_20: 3264883620355250594
+      Icon-BookBound_21: -4918348757169972333
+      Icon-BookBound_22: -5993047533431997630
+      Icon-BookBound_23: -2587328496598458567
+      Icon-BookBound_24: 1239742794616638024
+      Icon-BookBound_25: 3040891169562797282
+      Icon-BookBound_26: -7158703139390280179
+      Icon-BookBound_27: 4291386571286911628
+      Icon-BookBound_28: 1872331281900087543
+      Icon-BookBound_29: -7873037233603667545
+      Icon-BookBound_3: -75588331883335252
+      Icon-BookBound_30: 4321075072554422494
+      Icon-BookBound_31: 6263594373574644572
+      Icon-BookBound_32: -355833859812347363
+      Icon-BookBound_33: -2739346810557275058
+      Icon-BookBound_34: -1343905269717168933
+      Icon-BookBound_35: -5226817576592523833
+      Icon-BookBound_36: 324300262665478033
+      Icon-BookBound_37: -7283501314234221148
+      Icon-BookBound_4: 1222223364454346068
+      Icon-BookBound_5: 581946243897067611
+      Icon-BookBound_6: 7866526498032405890
+      Icon-BookBound_7: -6725706373505432061
+      Icon-BookBound_8: -9212332356586291497
+      Icon-BookBound_9: -2586597224241802868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

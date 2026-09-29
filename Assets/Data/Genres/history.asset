@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f2e2a8149d2e4a90b91f4524b5f86ac, type: 3}
+  m_Name: history
+  m_EditorClassIdentifier: BookBound.Runtime::BookBound.GenreDefinition
+  id: history
+  displayName: History
+  accentColor: {r: 0.043, g: 0.129, b: 0.239, a: 1}
+  labelSprite: {fileID: 0}
+  coverSprites:
+  - {fileID: -5948733491904151049, guid: dedb016012f39436a9ead6d2d1d96171, type: 3}
+  - {fileID: -7782124718054123294, guid: dedb016012f39436a9ead6d2d1d96171, type: 3}
+  - {fileID: 5980682655875722971, guid: dedb016012f39436a9ead6d2d1d96171, type: 3}
+  - {fileID: 3058311273669872764, guid: dedb016012f39436a9ead6d2d1d96171, type: 3}
+  - {fileID: 6028106622230286111, guid: dedb016012f39436a9ead6d2d1d96171, type: 3}
+  - {fileID: 5484235215299917628, guid: dedb016012f39436a9ead6d2d1d96171, type: 3}
+  - {fileID: -8443848706497765784, guid: dedb016012f39436a9ead6d2d1d96171, type: 3}
+  - {fileID: -3873892664482771654, guid: dedb016012f39436a9ead6d2d1d96171, type: 3}
+  - {fileID: -6321007193612963554, guid: dedb016012f39436a9ead6d2d1d96171, type: 3}
+  - {fileID: -6224655673637436474, guid: dedb016012f39436a9ead6d2d1d96171, type: 3}
+  spineSprites:
+  - {fileID: 5932184819930230466, guid: 8ab8913717b4f42c79cc09b0625137e7, type: 3}
+  - {fileID: 1600794221, guid: 8ab8913717b4f42c79cc09b0625137e7, type: 3}
+  - {fileID: -809178323, guid: 8ab8913717b4f42c79cc09b0625137e7, type: 3}
+  - {fileID: 80046345, guid: 8ab8913717b4f42c79cc09b0625137e7, type: 3}
+  - {fileID: 1454682596, guid: 8ab8913717b4f42c79cc09b0625137e7, type: 3}
+  - {fileID: 708972657, guid: 8ab8913717b4f42c79cc09b0625137e7, type: 3}
+  - {fileID: 2061069431, guid: 8ab8913717b4f42c79cc09b0625137e7, type: 3}
+  - {fileID: -1679466061, guid: 8ab8913717b4f42c79cc09b0625137e7, type: 3}
+  - {fileID: -1535073189, guid: 8ab8913717b4f42c79cc09b0625137e7, type: 3}
+  - {fileID: -2051743899, guid: 8ab8913717b4f42c79cc09b0625137e7, type: 3}

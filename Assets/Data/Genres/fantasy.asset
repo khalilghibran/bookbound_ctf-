@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f2e2a8149d2e4a90b91f4524b5f86ac, type: 3}
+  m_Name: fantasy
+  m_EditorClassIdentifier: BookBound.Runtime::BookBound.GenreDefinition
+  id: fantasy
+  displayName: Fantasy
+  accentColor: {r: 0.227, g: 0.129, b: 0.298, a: 1}
+  labelSprite: {fileID: 0}
+  coverSprites:
+  - {fileID: 4306765876284355446, guid: 2aa6d2546165c4a36aa03648b13bcb68, type: 3}
+  - {fileID: -8334686579982224050, guid: 2aa6d2546165c4a36aa03648b13bcb68, type: 3}
+  - {fileID: -86584124495265565, guid: 2aa6d2546165c4a36aa03648b13bcb68, type: 3}
+  - {fileID: -3766616839893156952, guid: 2aa6d2546165c4a36aa03648b13bcb68, type: 3}
+  - {fileID: 2968909150781842640, guid: 2aa6d2546165c4a36aa03648b13bcb68, type: 3}
+  - {fileID: 2082398396058888266, guid: 2aa6d2546165c4a36aa03648b13bcb68, type: 3}
+  - {fileID: 1725405483080847275, guid: 2aa6d2546165c4a36aa03648b13bcb68, type: 3}
+  - {fileID: -2282036334513820625, guid: 2aa6d2546165c4a36aa03648b13bcb68, type: 3}
+  - {fileID: -2275232449530239892, guid: 2aa6d2546165c4a36aa03648b13bcb68, type: 3}
+  - {fileID: 6354547542974098236, guid: 2aa6d2546165c4a36aa03648b13bcb68, type: 3}
+  spineSprites:
+  - {fileID: -8265540982400499235, guid: 2e5349fe781ba45eeaa559f5285326aa, type: 3}
+  - {fileID: 2133192369, guid: 2e5349fe781ba45eeaa559f5285326aa, type: 3}
+  - {fileID: 1654002303, guid: 2e5349fe781ba45eeaa559f5285326aa, type: 3}
+  - {fileID: -2005185051, guid: 2e5349fe781ba45eeaa559f5285326aa, type: 3}
+  - {fileID: -1784723630, guid: 2e5349fe781ba45eeaa559f5285326aa, type: 3}
+  - {fileID: 972622759, guid: 2e5349fe781ba45eeaa559f5285326aa, type: 3}
+  - {fileID: -1383428890, guid: 2e5349fe781ba45eeaa559f5285326aa, type: 3}
+  - {fileID: -685600880, guid: 2e5349fe781ba45eeaa559f5285326aa, type: 3}
+  - {fileID: 2050345891, guid: 2e5349fe781ba45eeaa559f5285326aa, type: 3}
+  - {fileID: -2084870965, guid: 2e5349fe781ba45eeaa559f5285326aa, type: 3}

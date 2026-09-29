@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 74a9288743c6e47128c9c7d0a462aa7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7504027017240503091
+    second: bookbound_ui_decorations_spritesheet_0
+  - first:
+      213: -6723138805631326752
+    second: bookbound_ui_decorations_spritesheet_1
+  - first:
+      213: -5275551997122532944
+    second: bookbound_ui_decorations_spritesheet_2
+  - first:
+      213: -1051200153637971515
+    second: bookbound_ui_decorations_spritesheet_3
+  - first:
+      213: 8015574925553399297
+    second: bookbound_ui_decorations_spritesheet_4
+  - first:
+      213: -3052106373517558145
+    second: bookbound_ui_decorations_spritesheet_5
+  - first:
+      213: -3087663526705735251
+    second: bookbound_ui_decorations_spritesheet_6
+  - first:
+      213: 1618096910060184373
+    second: bookbound_ui_decorations_spritesheet_7
+  - first:
+      213: -8314715731311988683
+    second: bookbound_ui_decorations_spritesheet_8
+  - first:
+      213: 1058303926963871891
+    second: bookbound_ui_decorations_spritesheet_9
+  - first:
+      213: 5001518374750698576
+    second: bookbound_ui_decorations_spritesheet_10
+  - first:
+      213: 5228515272563423671
+    second: bookbound_ui_decorations_spritesheet_11
+  - first:
+      213: -4047385957515578825
+    second: bookbound_ui_decorations_spritesheet_12
+  - first:
+      213: -1835662974739519979
+    second: bookbound_ui_decorations_spritesheet_13
+  - first:
+      213: 418784549283172972
+    second: bookbound_ui_decorations_spritesheet_14
+  - first:
+      213: -795685756614779502
+    second: bookbound_ui_decorations_spritesheet_15
+  - first:
+      213: -416215377379221974
+    second: bookbound_ui_decorations_spritesheet_16
+  - first:
+      213: 8480731233622641225
+    second: bookbound_ui_decorations_spritesheet_17
+  - first:
+      213: -3673452871707580172
+    second: bookbound_ui_decorations_spritesheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deco_star
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 736
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd4e1c3530be498f97241d8eedfc307
+      internalID: -865649919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_divider
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 755
+        width: 185
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3490bbfed9c334a42b924ec7841c49a4
+      internalID: -1706308382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deco_divider_long
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 759
+        width: 311
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53cbf45900c342f79aa48721a26c1ce
+      internalID: -1886189734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e09cccea0ae8540fda9e211f94b2cdeb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      deco_divider: -1706308382
+      deco_divider_long: -1886189734
+      deco_star: -865649919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
